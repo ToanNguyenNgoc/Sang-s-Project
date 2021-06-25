@@ -1,0 +1,61 @@
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\TDOHLC.exe
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\TDOHLC.pdb
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Controls.dll
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.dll
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Neuro.dll
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Video.dll
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Imaging.dll
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Genetic.dll
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Math.dll
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.xml
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Controls.xml
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Neuro.xml
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Video.xml
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Imaging.xml
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Genetic.xml
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\AForge.Math.xml
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.Form1.resources
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.exe
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.pdb
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\ZedGraph.dll
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\TDOHLC.exe.manifest
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\bin\Debug\TDOHLC.application
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.exe.manifest
+c:\users\owner\documents\visual studio 2010\Projects\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.application
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.exe
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.pdb
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\TDOHLC.exe
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\TDOHLC.pdb
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Video.dll
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Imaging.dll
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Genetic.dll
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Math.dll
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.xml
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Controls.xml
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Neuro.xml
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Video.xml
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Imaging.xml
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Genetic.xml
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\AForge.Math.xml
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.csprojResolveAssemblyReference.cache
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.Form1.resources
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.Properties.Resources.resources
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.csproj.GenerateResource.Cache
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\ZedGraph.dll
+D:\OneDrive\LuanVan\DEmo_TRenMang'\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\ZedGraph.xml
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.exe
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.pdb
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\TDOHLC.exe
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\TDOHLC.pdb
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\ZedGraph.dll
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\bin\Debug\ZedGraph.xml
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.csprojResolveAssemblyReference.cache
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.Form1.resources
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.Properties.Resources.resources
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\TDOHLCProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.csproj.GenerateResource.Cache
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\winequality_whiteProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.exe
+E:\HUFI\NghienCuuKhoaHoc\1.T.Vinh\Sourcode\NoRon\winequality_whiteProject\TDOHLC\TDOHLC\obj\x86\Debug\TDOHLC.pdb
